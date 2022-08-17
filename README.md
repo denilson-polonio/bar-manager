@@ -2,4 +2,5 @@
 **Manage your bar with set prices**
 
 **File Language:** *Italian*
-\n**File download:** [Download](https://dyblok27.com/github/download/bar-manager)
+
+**File download:** [Download](https://dyblok27.com/github/download/bar-manager)
